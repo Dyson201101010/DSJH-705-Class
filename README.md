@@ -1,6 +1,4 @@
 # DSJH-705-Class
-index.html
-<!DOCTYPE html>
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8" />
